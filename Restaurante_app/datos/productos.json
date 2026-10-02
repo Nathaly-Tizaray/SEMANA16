@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "sopa",
+        "precio": 3.0,
+        "stock": 20
+    },
+    {
+        "codigo": "002",
+        "nombre": "Papas",
+        "precio": 4.0,
+        "stock": 10
+    },
+    {
+        "codigo": "003",
+        "nombre": "Pollo",
+        "precio": 6.0,
+        "stock": 30
+    }
+]
